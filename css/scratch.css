@@ -40,3 +40,14 @@ body{
 ol.centered-list {
     margin-left: 30px;
   }
+
+  .floating-note {
+    position: absolute;
+    top: 850px;
+    right: 30px;
+    background-color: white;
+    padding: 10px;
+    border: 2px solid black;
+    font-weight: bold;
+}
+
